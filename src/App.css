@@ -36,3 +36,48 @@
     transform: rotate(360deg);
   }
 }
+.head{
+  text-align: center;
+  background-color: blue;
+
+}
+.inp{
+  margin-right: 30px;
+  }
+
+#search-bar{
+  margin-top: 15px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 10px 15px; 
+  border: 1px solid #61dafb;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #f8f8f8;
+  background-image: url('https://www.pinpng.com/pngs/m/10-102728_instagram-search-icon-vector-instagram-search-icon-png.png'); 
+  background-position: right 10px center; 
+  background-repeat: no-repeat;
+  padding-right: 35px; 
+  margin-bottom: 10px;
+  background-size: 20px;
+
+  
+}
+/* CSS Styling for table */
+
+/* TransactionList.css */
+#table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#table th,
+#table td {
+  padding: 8px;
+  border: 1px solid #61dafb;
+  text-align: left;
+}
+
+#table th {
+  background-color: #f2f2f2;
+}
